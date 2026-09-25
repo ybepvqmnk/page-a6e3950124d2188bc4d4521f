@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.cqtqock.cn/sitemap.xml
